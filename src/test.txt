@@ -1,1 +1,2 @@
-yeriel is a human.
+yeriel is a robot.
+dogs eat cats.
