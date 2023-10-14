@@ -1,2 +1,5 @@
 yeriel is a robot.
 dogs eat cats.
+yeriel is a dog.
+ethan is a cat. 
+
